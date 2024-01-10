@@ -3882,6 +3882,8 @@
 /fr/docs/Web/API/HTMLElement/animationend_event	/fr/docs/Web/API/Element/animationend_event
 /fr/docs/Web/API/HTMLElement/animationiteration_event	/fr/docs/Web/API/Element/animationiteration_event
 /fr/docs/Web/API/HTMLElement/animationstart_event	/fr/docs/Web/API/Element/animationstart_event
+/fr/docs/Web/API/HTMLElement/beforeinput_event	/fr/docs/Web/API/Element/beforeinput_event
+/fr/docs/Web/API/HTMLElement/input_event	/fr/docs/Web/API/Element/input_event
 /fr/docs/Web/API/HTMLElement/transitionend_event	/fr/docs/Web/API/Element/transitionend_event
 /fr/docs/Web/API/HTMLFormElement/submit_event_	/fr/docs/Web/API/HTMLFormElement/submit_event
 /fr/docs/Web/API/HTMLOrForeignElement/blur	/fr/docs/Web/API/HTMLElement/blur
@@ -4709,7 +4711,7 @@
 /fr/docs/Web/Events/gamepadconnected	/fr/docs/Web/API/Window/gamepadconnected_event
 /fr/docs/Web/Events/gamepaddisconnected	/fr/docs/Web/API/Window/gamepaddisconnected_event
 /fr/docs/Web/Events/hashchange	/fr/docs/Web/API/Window/hashchange_event
-/fr/docs/Web/Events/input	/fr/docs/Web/API/HTMLElement/input_event
+/fr/docs/Web/Events/input	/fr/docs/Web/API/Element/input_event
 /fr/docs/Web/Events/keypress	/fr/docs/Web/API/Element/keypress_event
 /fr/docs/Web/Events/load	/fr/docs/Web/API/Window/load_event
 /fr/docs/Web/Events/mousedown	/fr/docs/Web/API/Element/mousedown_event
@@ -4795,6 +4797,7 @@
 /fr/docs/Web/Guide/HTML/Using_HTML5_audio_and_video	/fr/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content
 /fr/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines	/fr/docs/Web/HTML/Element/Heading_Elements
 /fr/docs/Web/Guide/Introduction_to_Web_development	/fr/docs/Learn
+/fr/docs/Web/Guide/Mobile	/fr/docs/conflicting/Learn/CSS/CSS_layout/Responsive_Design
 /fr/docs/Web/Guide/Performance	/fr/docs/Web/Performance
 /fr/docs/Web/Guide/User_input_methods	/fr/docs/Learn/Forms/User_input_methods
 /fr/docs/Web/Guide/Using_FormData_Objects	/fr/docs/Web/API/XMLHttpRequest_API/Using_FormData_Objects
@@ -6433,7 +6436,6 @@
 /fr/docs/conflicting/Learn/CSS/Building_blocks/Values_and_units	/fr/docs/Learn/CSS/Building_blocks/Values_and_units
 /fr/docs/conflicting/Learn/CSS/CSS_layout	/fr/docs/Learn/CSS/CSS_layout
 /fr/docs/conflicting/Learn/CSS/CSS_layout/Introduction	/fr/docs/Learn/CSS/CSS_layout/Introduction
-/fr/docs/conflicting/Learn/CSS/CSS_layout/Responsive_Design	/fr/docs/Learn/CSS/CSS_layout/Responsive_Design
 /fr/docs/conflicting/Learn/CSS/First_steps	/fr/docs/Learn/CSS/First_steps
 /fr/docs/conflicting/Learn/CSS/First_steps/How_CSS_is_structured	/fr/docs/Learn/CSS/First_steps/How_CSS_is_structured
 /fr/docs/conflicting/Learn/CSS/First_steps/How_CSS_works_cdccf923f6bd040e8d243ee03d223ddc	/fr/docs/Learn/CSS/First_steps/How_CSS_works
